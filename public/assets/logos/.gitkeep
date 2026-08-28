@@ -1,0 +1,11 @@
+# Official ARXEN logo variants — DO NOT generate replacements.
+# Drop the exact uploaded PNG into each slot below. The site picks
+# the right one for each background; nothing is redrawn by the site.
+#
+# logo-wordmark-white.png -> desktop navbar, mobile menu, footer (white-on-black)
+# logo-wordmark.png       -> dark-facing variant (kept on file for reference)
+# logo-mark-white.png     -> white mark without wordmark
+# logo-mark.png           -> dark mark without wordmark
+# logo-mono-gray.png      -> monochrome gray variant
+#
+# Filenames referenced from src/main.jsx must stay identical.
